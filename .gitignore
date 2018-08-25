@@ -1,2 +1,5 @@
 /vendor/**
 /composer.*
+.idea/**
+.vagrant/
+info.php
