@@ -1,3 +1,3 @@
-# practice-programs-php
+# PracticeProgramsWithPHP
 
-練習とかその他で作ったPHPのプログラム置き場です
+This is repository my practice codes implemented with "PHP".
